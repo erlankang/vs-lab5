@@ -1,0 +1,1 @@
+create database svfu_vvs_kes
