@@ -14,6 +14,5 @@ CREATE TABLE students (
 	surname VARCHAR(512) NOT NULL,
 	name VARCHAR(512) NOT NULL,
 	father_name VARCHAR(512),
-	short_name VARCHAR(64) NOT NULL,
 	group_id int NOT NULL
 );
